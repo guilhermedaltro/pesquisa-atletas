@@ -22,8 +22,8 @@ body {
     align-items: center; /* Centraliza os itens horizontalmente */
     justify-content: center; /* Centraliza os itens verticalmente */
     height: 150px; /* Preenche a altura total da viewport */
-    margin: 0; /* Remove a margem padrão */
-    padding: 0; /* Remove o padding padrão */
+    margin: 0 auto; /* Remove a margem padrão */
+    padding: 0 auto; /* Remove o padding padrão */
 }
 
 /* Estiliza os títulos h1 */
